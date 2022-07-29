@@ -34,3 +34,8 @@ output/
 *.log.gz
 *.log-*.gz
 logs/
+
+#Exclude traget folder 
+**/target/
+
+db.sql
